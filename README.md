@@ -1,7 +1,5 @@
 # OGS-Online-Grocery-Store-
-Online Grocery Store
 In Progress...
-UI of OGS
 ![image](https://user-images.githubusercontent.com/56478185/175368081-78755e7c-11d0-41d3-b908-56c186056956.png)
 ![image](https://user-images.githubusercontent.com/56478185/175368173-cba7bed3-0e3d-414f-a3e8-37bcdf6e8fde.png)
 ![image](https://user-images.githubusercontent.com/56478185/175368220-a9548a11-8ab4-4c98-8837-608bfa10c40c.png)
